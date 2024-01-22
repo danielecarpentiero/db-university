@@ -1,5 +1,7 @@
 # DB University
 
+## Assignment 1
+
 Modellizzare la struttura delle entità di un database per memorizzare tutti i dati riguardanti una università:
 
 - sono presenti diversi Dipartimenti (es.: Lettere e Filosofia, Matematica, Ingegneria ecc.);
@@ -10,3 +12,7 @@ Modellizzare la struttura delle entità di un database per memorizzare tutti i d
 - ogni Studente è iscritto ad un solo Corso di Laurea;
 - ogni Studente può iscriversi a più appelli di Esame;
 - per ogni appello d’Esame a cui lo Studente ha partecipato, è necessario memorizzare il voto ottenuto, anche se non sufficiente.
+
+## Assignment 2
+
+Eseguire delle queries nel database allegato (db_university.sql)
